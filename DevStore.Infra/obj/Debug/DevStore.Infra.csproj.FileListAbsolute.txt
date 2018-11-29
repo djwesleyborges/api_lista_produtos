@@ -1,0 +1,12 @@
+D:\CSharp Project\POO Basico\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll.config
+D:\CSharp Project\POO Basico\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll
+D:\CSharp Project\POO Basico\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.pdb
+D:\CSharp Project\POO Basico\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.dll
+D:\CSharp Project\POO Basico\DevStore\DevStore.Infra\bin\Debug\EntityFramework.dll
+D:\CSharp Project\POO Basico\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSharp Project\POO Basico\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.pdb
+D:\CSharp Project\POO Basico\DevStore\DevStore.Infra\bin\Debug\EntityFramework.xml
+D:\CSharp Project\POO Basico\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSharp Project\POO Basico\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csprojResolveAssemblyReference.cache
+D:\CSharp Project\POO Basico\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.dll
+D:\CSharp Project\POO Basico\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.pdb

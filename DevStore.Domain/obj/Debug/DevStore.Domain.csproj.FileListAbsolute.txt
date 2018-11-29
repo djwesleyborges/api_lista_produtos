@@ -1,0 +1,4 @@
+D:\CSharp Project\POO Basico\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.dll
+D:\CSharp Project\POO Basico\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
+D:\CSharp Project\POO Basico\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
+D:\CSharp Project\POO Basico\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb
